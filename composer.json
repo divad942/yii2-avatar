@@ -29,7 +29,6 @@
       "homepage": "http://xenonpublicidad.com"
     }
   ],
-  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "eseperio\\avatar\\": "./src/"
