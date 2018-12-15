@@ -30,7 +30,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "eseperio\\avatar\\": "./src/"
+      "necrox87\\avatar\\": "./src/"
     }
   }
 }
