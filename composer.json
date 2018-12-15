@@ -3,7 +3,6 @@
   "description": "Avatar management module",
   "type": "library",
   "license": "MIT",
-  "version": "1.0.0",
   "require": {
     "php": ">=7.0.0",
     "yiisoft/yii2-imagine": "^2.1.1"
