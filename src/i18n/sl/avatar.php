@@ -21,5 +21,5 @@ return [
     'An error ocurred deleting your file' => 'Pri brisanju datoteke je prišlo do napake',
     'Change' => 'Spremeni',
     'Remove' => 'Odstrani',
-    'Remove avatar permanently? This can not be undone.' => 'Odstrani za vedno? Tega ni mogoče razveljaviti.',
+    'Remove avatar permanently? This can not be undone.' => 'Trajno odstraniti avatar? Tega ni mogoče razveljaviti.',
 ];
