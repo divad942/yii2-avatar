@@ -118,7 +118,7 @@ class Module extends \yii\base\Module
         \Yii::$app->i18n->translations['avatar'] = [
             'class' => PhpMessageSource::class,
             'sourceLanguage' => 'en-EN',
-            'basePath' => '@vendor/eseperio/yii2-avatar/src/i18n',
+            'basePath' => '@vendor/divad942/yii2-avatar/src/i18n',
         ];
     }
 
